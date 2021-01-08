@@ -1,0 +1,74 @@
+
+
+.cennter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent {
+    /*margin-left: 323px;*/
+}
+.tools{
+    padding: 10px;
+    display: flex;
+    background-color: #a3999982;
+    width: 735px;
+    height: 50px;
+}
+.tools h2 {
+    margin-top: 10px;
+    font-size: 24px;
+    margin-right: 49px;
+}
+.tools div {
+    margin-left: 37px;
+    margin-top: 11px;
+}
+.tools label {
+    font-size: 18px;
+    margin-right: 3px;
+}
+
+.tools button {
+    font-size: 17px;
+    padding: 6px 18px;
+    margin-left: 100px;
+    width: 87px;
+    height: 42px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+/*
+.parent {
+    margin-left: 323px;
+}
+.tools{
+    padding: 10px;
+    display: flex;
+    background-color: #a3999982;
+    width: 735px;
+    height: 50px;
+}
+.tools h2 {
+    margin-top: 10px;
+    font-size: 24px;
+    margin-right: 49px;
+}
+.tools div {
+    margin-left: 37px;
+    margin-top: 11px;
+}
+.tools label {
+    font-size: 18px;
+    margin-right: 3px;
+}
+
+.tools button {
+    font-size: 17px;
+    padding: 6px 18px;
+    margin-left: 100px;
+    width: 87px;
+    height: 42px;
+    margin-top: 5px;
+    cursor: pointer;
+}*/
